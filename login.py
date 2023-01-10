@@ -3,7 +3,7 @@ from page.page import Page
 from time import sleep
 from modle.log1 import Logger
 
-
+#添加一行备注信息
 mylogger = Logger(logger='测试标题').getlog()
 
 class The_login(Page):
