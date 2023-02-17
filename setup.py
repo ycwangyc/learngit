@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-#-*- coding:utf-8 -*-
- 
-#############################################
-# File Name: setup.py
-# Author: xiaoyao 
-# Mail: xiaoyaoalpha@gmail.com
-# Created Time: 2019-4-29 11:17:34
-#############################################
- 
- 
 from setuptools import setup, find_packages
  
 setup(
@@ -20,8 +9,8 @@ setup(
   license = "",
  
   url = "http://www.google.com",
-  author = "xiaoyao",
-  author_email = "xiaoyaoalpha@gmail.com",
+  author = "ads",
+  author_email = "asd.com",
  
   packages = find_packages(),
   include_package_data = True,
